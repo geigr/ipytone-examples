@@ -11,7 +11,9 @@ dependencies:
   - ipyfastscape
   - ipygany
   - obspy
-  - pyvista
   - bqplot
   - scikit-image
   - pandas
+  - pip
+  - pip:
+    - pyvista >= 0.34.1
