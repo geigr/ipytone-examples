@@ -10,10 +10,9 @@ dependencies:
   - fastscape
   - ipyfastscape
   - ipygany
+  - pyvista
+  - vtk=9.1.0=no_osmesa_py38h439d15b_102
   - obspy
   - bqplot
   - scikit-image
   - pandas
-  - pip
-  - pip:
-    - pyvista >= 0.34.1
