@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+dependencies:
+  - ipytone
+  - ipywidgets
+  - traittypes
+  - jupyterlab
+  - numpy
+  - matplotlib-base
+  - fastscape
+  - ipyfastscape
+  - ipygany
+  - obspy
+  - pyvista
+  - bqplot
+  - scikit-image
+  - pandas
