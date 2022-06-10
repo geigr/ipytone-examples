@@ -11,7 +11,7 @@ dependencies:
   - ipyfastscape
   - ipygany
   - pyvista
-  - vtk=9.1.0=no_osmesa_py38h439d15b_102
+  - vtk=9.1.0=no_osmesa*
   - obspy
   - bqplot
   - scikit-image
