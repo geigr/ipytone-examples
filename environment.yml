@@ -3,6 +3,7 @@ channels:
 dependencies:
   - ipytone
   - ipywidgets
+  - ipyleaflet
   - traittypes
   - jupyterlab
   - numpy
@@ -15,3 +16,7 @@ dependencies:
   - bqplot
   - scikit-image
   - pandas
+  - geopandas
+  - pip
+  - pip:
+    - meanderpy
