@@ -20,6 +20,8 @@
 
 ### French presidential election 2022 (1st round)
 
+Note: data (audio samples, tables and shapefiles) not included in this repo.
+
 <a href="https://www.youtube.com/watch?v=1EpDZMUDR8Q" target="_blank" rel="noopener noreferrer"><img width="512" alt="french election yt video" src="https://user-images.githubusercontent.com/4160723/174279530-380ee692-5885-415f-aac8-ff71d43113b3.png"></a>
 
 ### River meandering
