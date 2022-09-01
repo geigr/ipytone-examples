@@ -12,6 +12,7 @@ dependencies:
   - ipyfastscape
   - ipygany
   - ipycanvas
+  - ipyevents
   - pyvista
   - obspy
   - bqplot
