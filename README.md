@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benbovy/ipytone-examples/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geigr/ipytone-examples/HEAD)
 
 # Ipytone Demo
 
@@ -45,7 +45,7 @@ anything thanks to [binder](https://mybinder.org/). Just follow the link below o
 "launch binder" badge at the top of this document and it will launch remotely a new notebook server
 for you:
 
-- [Run on binder](https://mybinder.org/v2/gh/benbovy/ipytone-examples/HEAD)
+- [Run on binder](https://mybinder.org/v2/gh/geigr/ipytone-examples/HEAD)
 
 ### Install and run locally (Conda)
 
@@ -54,7 +54,7 @@ installed, you can install all the packages required to run the notebooks in a
 new conda environment using the following commands:
 
 ```bash
-$ git clone https://github.com/benbovy/ipytone-examples
+$ git clone https://github.com/geigr/ipytone-examples
 $ cd ipytone-examples
 $ conda env create -n ipytone-demo -f environment.yml
 $ conda activate ipytone-demo
